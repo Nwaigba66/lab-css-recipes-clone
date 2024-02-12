@@ -22,3 +22,16 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+#image-size {
+  width: auto;
+  height: 50%;
+}
+#text {
+  align-items: right;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#paragraph {
+  align-items: center;
+}
